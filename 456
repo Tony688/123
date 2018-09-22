@@ -1,1 +1,25 @@
-123456
+import matplotlib.pyplot as plt 
+import numpy as np
+abc1=pd.read_csv("abc1.csv")
+abc1=pd.read_csv("abc1.csv")
+
+ax1 = fig.add_subplot(111)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
